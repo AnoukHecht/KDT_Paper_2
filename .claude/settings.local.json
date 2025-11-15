@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(del fix_notebook.py)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
