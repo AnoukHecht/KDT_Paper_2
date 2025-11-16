@@ -4,7 +4,8 @@
       "Bash(python:*)",
       "Bash(del fix_notebook.py)",
       "Bash(dir:*)",
-      "Bash(nul)"
+      "Bash(nul)",
+      "Bash(del fix_output_paths.py fix_double_paths.py fix_print_messages.py)"
     ],
     "deny": [],
     "ask": []
