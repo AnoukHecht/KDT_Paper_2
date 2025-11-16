@@ -1,2 +1,2 @@
 Total Samples,Train Samples,Test Samples,Total Features,Numeric Features,Genre Features,Target Variable,Target Mean,Target Std
-7386,5170,1108,27,8,10,revenue,$16,$3
+7386,5166,1107,26,8,10,revenue,$16,$3
