@@ -2,13 +2,24 @@
 
 ## Generated Outputs
 
-### Figures (16 files)
+### Main Figures (9 files)
 - Figure 1: Feature Correlation Matrix
 - Figure 2: Feature Importance Comparison
 - Figure 3: Individual Feature Ablation
 - Figure 4: Cumulative Feature Addition Curve
 - Figure 5: Performance vs. Number of Features
 - Figure 6: Feature Group Ablation
+- Figure 7: Predicted vs Actual (Best Model)
+- Figure 8: Performance with Confidence Intervals
+- Figure 9: Statistical Significance Matrix
+
+### Supplementary Figures (6 files)
+- Figure S1: Target Distribution Analysis
+- Figure S2: Feature Relationships with Target
+- Figure S3: SHAP Summary Plot
+- Figure S4: SHAP Dependence Plots
+- Figure S5: Feature Importance Detail
+- Figure S6: Ablation Study Comparison
 
 ### Tables (9 files)
 - Table 1: Dataset Characteristics
@@ -17,5 +28,6 @@
 - Table 4: Individual Feature Ablation Results
 - Table 5: Top-K Feature Selection Performance
 - Table 6: Feature Group Ablation Results
+- Table 7: Statistical Test Results
 
-Generated: 2025-11-16 17:18:02
+Generated: 2025-11-19 20:21:10
