@@ -5,7 +5,15 @@
       "Bash(del fix_notebook.py)",
       "Bash(dir:*)",
       "Bash(nul)",
-      "Bash(del fix_output_paths.py fix_double_paths.py fix_print_messages.py)"
+      "Bash(del fix_output_paths.py fix_double_paths.py fix_print_messages.py)",
+      "Bash(claude mcp:*)",
+      "mcp__jupyter__notebook_read",
+      "mcp__jupyter__notebook_get_outline",
+      "mcp__jupyter__notebook_read_cell",
+      "mcp__jupyter__notebook_add_cell",
+      "mcp__jupyter__notebook_edit_cell",
+      "mcp__jupyter__notebook_read_cell_output",
+      "mcp__jupyter__notebook_search"
     ],
     "deny": [],
     "ask": []
