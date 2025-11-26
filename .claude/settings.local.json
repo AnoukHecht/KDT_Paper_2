@@ -14,7 +14,8 @@
       "mcp__jupyter__notebook_edit_cell",
       "mcp__jupyter__notebook_read_cell_output",
       "mcp__jupyter__notebook_search",
-      "Bash(jupyter nbconvert:*)"
+      "Bash(jupyter nbconvert:*)",
+      "Bash(cut:*)"
     ],
     "deny": [],
     "ask": []
