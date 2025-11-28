@@ -13,7 +13,8 @@
       "mcp__jupyter__notebook_add_cell",
       "mcp__jupyter__notebook_edit_cell",
       "mcp__jupyter__notebook_read_cell_output",
-      "mcp__jupyter__notebook_search"
+      "mcp__jupyter__notebook_search",
+      "mcp__jupyter__notebook_clear_all_outputs"
     ],
     "deny": [],
     "ask": []
